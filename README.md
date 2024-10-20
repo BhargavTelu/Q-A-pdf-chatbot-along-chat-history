@@ -91,4 +91,4 @@ Feel free to fork this repository and submit pull requests. Contributions are we
 ## Contact
 For any questions or inquiries, reach out to:
 
-Bhargav Telu - [LinkedIn]([url](https://www.linkedin.com/in/bhargav-telu-9a06801a0/))
+Bhargav Telu - [LinkedIn](https://www.linkedin.com/in/bhargav-telu-9a06801a0/)
